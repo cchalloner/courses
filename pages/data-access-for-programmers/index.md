@@ -1,6 +1,6 @@
 ---
 title: Data Access for Programmers
-subtitle: challoner
+subtitle: Carolyn Challoner
 hide-nav: true
 
 live: https://fvtc.software/challoner/data-access-for-programmers
