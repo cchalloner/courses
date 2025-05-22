@@ -3,7 +3,7 @@ title: Many-to-Many Relationships
 subtitle: Data Access for Programmers
 hideNav: false
 
-live: https://fvtc.software/appel/data-access-for-programmers/many-to-many-relationships
+live: https://fvtc.software/cchalloner/data-access-for-programmers/many-to-many-relationships
 ---
 
 # Many-to-Many Relationships
@@ -19,7 +19,7 @@ Since we can use arrays in JSON, having many-to-many relationship is easy.  We j
 	"instructors": [
 		{
 			"ID": 12345,
-			"Name": "Ryan Appel",
+			"Name": "Carolyn Challoner",
 			"CourseIds": [ 56441, 51232, 51112 ]
 		},
 		{

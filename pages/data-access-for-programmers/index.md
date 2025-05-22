@@ -1,9 +1,9 @@
 ---
 title: Data Access for Programmers
-subtitle: Appel
+subtitle: cchalloner
 hide-nav: true
 
-live: https://fvtc.software/appel/data-access-for-programmers
+live: https://fvtc.software/cchalloner/data-access-for-programmers
 ---
 
 [Getting Started](data-access-for-programmers/getting-started) - _Week 1_
