@@ -3,7 +3,7 @@ title: Objects and File Types
 subtitle: Data Access for Programmers
 hideNav: false
 
-live: https://fvtc.software/cchalloner/data-access-for-programmers/objects-and-file-types
+live: https://fvtc.software/challoner/data-access-for-programmers/objects-and-file-types
 ---
 
 # Objects and File Types
@@ -211,7 +211,7 @@ Here's an example of a CSV file:
 	</div>
 </details>
 
-You can see/download the CSV file [here](https://github.com/RDcchalloner/courses/blob/master/support-files/dap/objects-and-file-types/example.csv).
+You can see/download the CSV file [here](https://github.com/RDchalloner/courses/blob/master/support-files/dap/objects-and-file-types/example.csv).
 
 
 ### XML Files
@@ -229,7 +229,7 @@ Another common file type is called an XML file. XML stands for "extensible marku
 	</div>
 </details>
 
-You can see/download the XML file [here](https://github.com/RDcchalloner/courses/blob/master/support-files/dap/objects-and-file-types/example.xml).
+You can see/download the XML file [here](https://github.com/RDchalloner/courses/blob/master/support-files/dap/objects-and-file-types/example.xml).
 
 ### JSON Files
 
@@ -246,7 +246,7 @@ The last common file type is called a JSON file. JSON stands for "JavaScript Obj
 	</div>
 </details>
 
-You can see/download the JSON file [here](https://github.com/RDcchalloner/courses/blob/master/support-files/dap/objects-and-file-types/example.json).
+You can see/download the JSON file [here](https://github.com/RDchalloner/courses/blob/master/support-files/dap/objects-and-file-types/example.json).
 
 # Exercise 1
 
@@ -270,7 +270,7 @@ Credits: 3
 	</div>
 </details>
 
-The solution files for this demo can be found here: [CSV File](https://github.com/RDcchalloner/courses/blob/master/support-files/dap/objects-and-file-types/exercise1.csv), [XML File](https://github.com/RDcchalloner/courses/blob/master/support-files/dap/objects-and-file-types/exercise1.xml), [JSON File](https://github.com/RDcchalloner/courses/blob/master/support-files/dap/objects-and-file-types/exercise1.json).
+The solution files for this demo can be found here: [CSV File](https://github.com/RDchalloner/courses/blob/master/support-files/dap/objects-and-file-types/exercise1.csv), [XML File](https://github.com/RDchalloner/courses/blob/master/support-files/dap/objects-and-file-types/exercise1.xml), [JSON File](https://github.com/RDchalloner/courses/blob/master/support-files/dap/objects-and-file-types/exercise1.json).
 
 # RESTful APIs
 

@@ -3,7 +3,7 @@ title: Getting Started
 subtitle: Data Access for Programmers
 hideNav: false
 
-live: https://fvtc.software/cchalloner/data-access-for-programmers/getting-started
+live: https://fvtc.software/challoner/data-access-for-programmers/getting-started
 ---
 
 # Welcome to the Class!

@@ -3,7 +3,7 @@ title: Single Table Databases
 subtitle: Data Access for Programmers
 hideNav: false
 
-live: https://fvtc.software/cchalloner/data-access-for-programmers/single-table-databases
+live: https://fvtc.software/challoner/data-access-for-programmers/single-table-databases
 ---
 
 # Single Table Databases
@@ -170,13 +170,13 @@ The following video will give a brief overview of how to create a schema and tab
 To add (or insert) data into a table, we use the `INSERT INTO` statement. To insert data into the `Students` table, we would use the following SQL code:
 
 ```sql
-INSERT INTO Students (ID, FirstName, LastName) VALUES (123456, "Ryan", "cchalloner");
+INSERT INTO Students (ID, FirstName, LastName) VALUES (123456, "Ryan", "challoner");
 ```
 
 Or if we are inserting data into all of the columns, we can omit the column names:
 
 ```sql
-INSERT INTO Students VALUES (123456, "Ryan", "cchalloner");
+INSERT INTO Students VALUES (123456, "Ryan", "challoner");
 ```
 
 The following video will give a brief overview of how to insert data into our table from the previous exercise video.

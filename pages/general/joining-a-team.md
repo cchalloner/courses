@@ -3,7 +3,7 @@ title: Joining a Team
 subtitle: Microsoft Teams
 hideNav: false
 
-live: https://fvtc.software/cchalloner/general/joining-a-team
+live: https://fvtc.software/challoner/general/joining-a-team
 ---
 
 # Joining a Team

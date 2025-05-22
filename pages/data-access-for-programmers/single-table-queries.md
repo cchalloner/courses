@@ -3,7 +3,7 @@ title: Single Table Queries
 subtitle: Data Access for Programmers
 hideNav: false
 
-live: https://fvtc.software/cchalloner/data-access-for-programmers/single-table-queries
+live: https://fvtc.software/challoner/data-access-for-programmers/single-table-queries
 ---
 
 # Single Table Queries
